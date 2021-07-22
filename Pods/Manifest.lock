@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (6.3.0)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - QuickLayout (3.0.0)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftEntryKit (1.2.7):
+    - QuickLayout (= 3.0.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2)
+  - Kingfisher
+  - Localize-Swift (~> 3.2)
+  - SDWebImage (~> 4.0)
+  - Socket.IO-Client-Swift (~> 15.2.0)
+  - SwiftEntryKit
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Localize-Swift
+    - QuickLayout
+    - SDWebImage
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftEntryKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftEntryKit: 537c92699d6034efb1ef9c32b11e0b37c97aa589
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 83d704e4e548c254ca15210ff9d5f5b94ffc20e6
+
+COCOAPODS: 1.10.0

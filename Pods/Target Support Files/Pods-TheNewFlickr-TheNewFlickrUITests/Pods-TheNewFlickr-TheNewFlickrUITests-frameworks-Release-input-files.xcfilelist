@@ -1,0 +1,10 @@
+${PODS_ROOT}/Target Support Files/Pods-TheNewFlickr-TheNewFlickrUITests/Pods-TheNewFlickr-TheNewFlickrUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/Localize-Swift/Localize_Swift.framework
+${BUILT_PRODUCTS_DIR}/QuickLayout/QuickLayout.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/Socket.IO-Client-Swift/SocketIO.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${BUILT_PRODUCTS_DIR}/SwiftEntryKit/SwiftEntryKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
